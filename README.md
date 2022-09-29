@@ -5,7 +5,7 @@
 Projeto construido no evento Next Level week da Rocketseat.
 
 
-[Clique aqui para acessar](https://pedronovais.github.io/Landing-page/)
+[Clique aqui para acessar](https://pedronovais.github.io/landing-page-nlw/)
 
 ## 💻 Tecnologias
 
